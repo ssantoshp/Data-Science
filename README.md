@@ -1,2 +1,2 @@
-# Data-Science
-Data Science projects
+# Datac Science and Machine Learning projects
+
